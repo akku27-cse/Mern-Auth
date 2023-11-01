@@ -151,5 +151,14 @@ npm i axios
 ex==//
 axio.post("http://localhos:5000/api/signup)
 ```
+4.git command
+```shell
+git init
+git status
+git add .
+git commit
+git push
+git pull
+```
 
 
