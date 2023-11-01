@@ -151,7 +151,8 @@ npm i axios
 ex==//
 axio.post("http://localhos:5000/api/signup)
 ```
-4.git command
+4.git command 
+(basic git commad use in GitHub when first project are added there has some different command like git repository link or git push main)
 ```shell
 git init
 git status
@@ -160,5 +161,6 @@ git commit
 git push
 git pull
 ```
+
 
 
